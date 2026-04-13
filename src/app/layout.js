@@ -25,9 +25,10 @@ export default function RootLayout({ children }) {
       <body>
         <Header />
         <Navigation />
+        <p className="">This is the RootLayout. It is shared across all pages.</p>
         {children}
       </body>
-      
+
     </html>
   );
 }
