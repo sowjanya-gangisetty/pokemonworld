@@ -4,7 +4,7 @@ import PageTitle from "@/components/PageTitle";
 
 const Games  = () => {
   return (
-    <div className={styles.page}>
+    <div >
       <PageTitle title="Games Page" />
     </div>
   );
