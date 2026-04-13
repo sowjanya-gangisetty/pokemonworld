@@ -1,7 +1,6 @@
 'use client'
 
-import link from "next/link";
-import styles from "./navigatioin.module.css";
+import styles from "./navigation.module.css";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
